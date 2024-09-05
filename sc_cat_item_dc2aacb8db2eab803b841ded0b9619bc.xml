@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-09-05 14:15:17">
+<sc_cat_item action="INSERT_OR_UPDATE">
+<access_type>restricted</access_type>
+<active>true</active>
+<additional_review>false</additional_review>
+<availability>on_both</availability>
+<billable>false</billable>
+<category display_value="Application Specific">4a6a11006fb91100cd78d7413f3ee476</category>
+<checked_out>false</checked_out>
+<cost>0</cost>
+<create_universal_request>false</create_universal_request>
+<custom_cart display_value=""/>
+<delivery_plan display_value=""/>
+<delivery_plan_script/>
+<delivery_time>1970-01-02 06:00:00</delivery_time>
+<description><![CDATA[<p><strong>Create Group Instruction:</strong></p>
+<p>In case a new group for ServiceNow is required please use this request with the option &#34;Create New Group&#34; .</p>
+<p> </p>
+<p><strong>Update Group Instruction:</strong></p>
+<p>In case update of existing group for ServiceNow is required please use this request with the option &#34;update existing Group&#34; .</p>
+<p>Please choose one of the option :</p>
+<ul style="list-style-position: inside;"><li>Delete Existing member/s to the Group</li><li>Add New Member/s to the group</li><li>Update the Group manager</li><li>Update the Group name</li><li>Update the Group e-mail address</li><li>Tag/Untag <a href="/u_jira_team_list.do?sysparm_query&#61;&amp;sysparm_view&#61;" target="_blank" title="Jira Team" rel="noopener noreferrer nofollow">Jira Team</a> to a ServiceNow Group(Helps in enhanced reporting)</li><li>Deactivate the group if no longer being used</li></ul>
+<p><strong>Knowledge ownership group instruction:</strong></p>
+<p>In the case of the creation or update of a group as a knowledge ownership group in ServiceNow, separate approval is required.</p>
+<p>For more information, please check <a href="/msh?id&#61;kb_article_view&amp;sysparm_article&#61;KB0045967" target="_blank" title="Article" rel="noopener noreferrer nofollow">this </a> article. </p>
+<p><strong>Please ensure that all the details completed below are complete and accurate (e.g. no spelling mistakes). If we notice any deviations we will have to reject this request and you will have to submit the request again because we have automated the execution of this task.</strong></p>]]></description>
+<display_price_property>non_zero</display_price_property>
+<entitlement_script/>
+<flow_designer_flow display_value=""/>
+<fulfillment_automation_level>unspecified</fulfillment_automation_level>
+<group display_value=""/>
+<hide_sp>false</hide_sp>
+<icon/>
+<ignore_price>true</ignore_price>
+<image/>
+<list_price>0</list_price>
+<location display_value=""/>
+<make_item_non_conversational>false</make_item_non_conversational>
+<mandatory_attachment>false</mandatory_attachment>
+<meta>REQ 003,003,req 003</meta>
+<mobile_hide_price>false</mobile_hide_price>
+<mobile_picture/>
+<mobile_picture_type>use_desktop_picture</mobile_picture_type>
+<model display_value=""/>
+<name>Request for ServiceNow  Group Management [REQ 003]</name>
+<no_attachment_v2>false</no_attachment_v2>
+<no_cart>true</no_cart>
+<no_cart_v2>false</no_cart_v2>
+<no_delivery_time_v2>true</no_delivery_time_v2>
+<no_order>false</no_order>
+<no_order_now>false</no_order_now>
+<no_proceed_checkout>false</no_proceed_checkout>
+<no_quantity>true</no_quantity>
+<no_quantity_v2>true</no_quantity_v2>
+<no_save_as_draft>false</no_save_as_draft>
+<no_search>false</no_search>
+<no_wishlist_v2>false</no_wishlist_v2>
+<omit_price>true</omit_price>
+<order>0</order>
+<ordered_item_link display_value=""/>
+<owner display_value=""/>
+<picture/>
+<preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=dc2aacb8db2eab803b841ded0b9619bc&amp;sysparm_preview=true", "summary");</preview>
+<price>0</price>
+<published_ref display_value=""/>
+<recurring_frequency/>
+<recurring_price>0</recurring_price>
+<request_method/>
+<roles/>
+<sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+<sc_ic_item_staging display_value=""/>
+<sc_ic_version/>
+<sc_template display_value=""/>
+<short_description>Create/update group</short_description>
+<show_variable_help_on_load>false</show_variable_help_on_load>
+<start_closed>false</start_closed>
+<state>published</state>
+<sys_class_name>sc_cat_item</sys_class_name>
+<sys_created_by>syam_admin</sys_created_by>
+<sys_created_on>2018-12-20 12:12:38</sys_created_on>
+<sys_customer_update>true</sys_customer_update>
+<sys_id>dc2aacb8db2eab803b841ded0b9619bc</sys_id>
+<sys_mod_count>101</sys_mod_count>
+<sys_name>Request for ServiceNow  Group Management [REQ 003]</sys_name>
+<sys_package display_value="Global" source="global">global</sys_package>
+<sys_policy/>
+<sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sc_cat_item_dc2aacb8db2eab803b841ded0b9619bc</sys_update_name>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2024-08-12 13:37:34</sys_updated_on>
+<taxonomy_topic display_value="Service Management">b6aa91b58794f91864dc31973cbb35a3</taxonomy_topic>
+<template display_value=""/>
+<type>item</type>
+<u_business_service display_value="ServiceNow Platform">8e75320447429d50842e99a8536d43ce</u_business_service>
+<u_item_builder_support_group display_value=""/>
+<u_line_manager_approval_needed>false</u_line_manager_approval_needed>
+<u_managed_by display_value="Bart van Kleef">ddd02c65dbb157046ada1ded0b96193c</u_managed_by>
+<u_preview_in_portal>/msh?id=sc_cat_item&amp;sys_id=dc2aacb8db2eab803b841ded0b9619bc</u_preview_in_portal>
+<u_special_hardware>false</u_special_hardware>
+<u_validated>true</u_validated>
+<use_sc_layout>true</use_sc_layout>
+<vendor display_value=""/>
+<version>42</version>
+<visible_bundle>true</visible_bundle>
+<visible_guide>true</visible_guide>
+<visible_standalone>true</visible_standalone>
+<workflow display_value="All in one workflow_v2">8fd5347c1b454454a76da796bd4bcb5b</workflow>
+</sc_cat_item>
+</unload>
